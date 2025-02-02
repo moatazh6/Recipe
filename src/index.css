@@ -43,6 +43,18 @@ a:hover {
     -webkit-text-fill-color: transparent;
   }
 }
+.meal-image {
+  h1 {
+    font-family: "Pacifico", serif;
+  }
+}
+
+.meal-info {
+  h2 {
+    font-family: "Pacifico", serif;
+    font-size: 30px;
+  }
+}
 
 body {
   margin: 0;
